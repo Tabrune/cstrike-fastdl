@@ -1,0 +1,15 @@
+Rats_XL - Bomb/Defuse
+by Chris Spain (chris@cyber-rat.com)
+Playtesting by [SKR8]Gunslinger
+
+Counter-Terrorists:
+Prevent the terrorists from blowing-
+up the toy boat in the bathtub. Team
+members must defuse any bombs that
+threaten the target area.
+
+Terrorists:
+The terrorist carrying the bomb must
+plant it on the toy boat.
+
+(Press FIRE to continue)
